@@ -11,7 +11,7 @@ Azure Machine Learning が提供する **自動機械学習 (AutoML)** のモデ
 ---
 
 
-# Sample Code & Notebook
+# Sample Codes & Notebooks
 
 
 ### データの準備

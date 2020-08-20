@@ -1,4 +1,8 @@
 data/**
+model/**
+*.pkl
+config.json
+
 
 
 

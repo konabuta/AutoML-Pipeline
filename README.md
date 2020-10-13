@@ -8,7 +8,9 @@ Azure Machine Learning が提供する **自動機械学習 (AutoML)** のモデ
     - https://docs.microsoft.com/ja-jp/azure/machine-learning/concept-ml-pipelines
 
 
----
+<br><br>
+<img src="https://user-images.githubusercontent.com/3815677/95823020-e46be180-0d67-11eb-8267-09e8e7a34362.png" width = 800><br/>
+<br><br>
 
 
 # Sample Codes & Notebooks

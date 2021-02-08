@@ -12,5 +12,5 @@ print("model path : ", model_path)
 
 model = joblib.load(model_path)
 
-predicted = model.predict_proba(test_dataset.take(1).to_pandas_dataframe())
+predicted = model.predict_proba(test_dataset.to_pandas_dataframe())
 print(predicted)
